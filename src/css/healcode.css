@@ -1,0 +1,80 @@
+div.healcode .header h1 {
+	 color: #7a7a7a !important;
+}
+ div.healcode .header * {
+	 color: #192657 !important;
+}
+ div.healcode.enrollments .healcode-course-name, div.healcode.enrollments .healcode-enrollment-name {
+	 font-size: 1.3em !important;
+}
+ div.healcode .header select {
+	 font-size: 0.8em !important;
+}
+ div.healcode, div.healcode.enrollments .enrollment {
+	 font-family: Inherit !important;
+	 line-height: 1.4 !important;
+	 font-size: 100% !important;
+	 margin-bottom: 0 !important;
+}
+ div.healcode .class_list .class_offered_link, div.healcode .class_list .trainer_teaches_link, div.healcode .trainer_list .class_offered_link, div.healcode .trainer_list .trainer_teaches_link {
+	 box-shadow: none !important;
+}
+ div.healcode .class_list .class_offered_link a, div.healcode .class_list .trainer_teaches_link a, div.healcode .trainer_list .class_offered_link a, div.healcode .trainer_list .trainer_teaches_link a {
+	 font-weight: normal !important;
+}
+ div.healcode .class_list .class_show, div.healcode .class_list .trainer_show, div.healcode .trainer_list .class_show, div.healcode .trainer_list .trainer_show {
+	 border: 1px solid #ccc;
+	 padding: 1em;
+	 border-radius: 3px;
+	 background-color: rgba(205, 205, 205, .05);
+}
+ div.healcode table.schedule tr td, div.healcode table.enrollments tr td, div.healcode table.healcode-appointments tr td, div.healcode ol.enrollment_list li.cancelled div tr td {
+	 color: #192657 !important;
+}
+ div.class_description {
+	 font-size: 1rem !important;
+	 line-height: 1.4 !important;
+}
+ .hc_day {
+	 font-size: 1.2rem;
+}
+ .classname a, .trainer a {
+	 color: inherit;
+	 text-decoration: none;
+}
+ .classname a:hover, .trainer a:hover {
+	 color: #fe8a02;
+	 text-decoration: underline;
+}
+ .filters #mbo_class, .filters #trainer {
+	 max-width: 300px;
+}
+ .class_description > div {
+	 margin-bottom: 1em;
+}
+ @media screen and (min-width: 600px) {
+	 .info_wrapper > div {
+		 display: inline-block;
+		 margin-right: 2em;
+		 width: 28%;
+	}
+	 .healcode-pricing-option-text-link, .healcode-contract-text-link, .buy-now {
+		 padding: 0.5em 1em;
+	}
+}
+ .healcode-pricing-option-text-link, .healcode-contract-text-link, .healcode-date-links-area span.healcode-next a, .healcode-date-links-area span.healcode-previous a, .week_links a, .buy {
+	 background: #ff8a01 linear-gradient(rgba(255, 255, 255, .2), transparent) !important;
+	 padding: 0.3em 0.5em;
+	 text-decoration: none;
+	 color: #fff !important;
+	 display: block;
+	 text-align: center;
+}
+ .buy.ib {
+	 display: inline-block;
+}
+ .healcode-date-links-area span.healcode-next a, .healcode-date-links-area span.healcode-previous a {
+	 display: inline-block;
+	 box-shadow: none;
+}
+ 

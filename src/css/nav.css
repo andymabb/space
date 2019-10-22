@@ -1,0 +1,83 @@
+.mainnav, .treatment-menu {
+	 list-style-type: none;
+	 margin: 0;
+	 display: flex;
+	 justify-content: flex-end;
+	 flex-wrap: wrap;
+}
+ .mainnav {
+	 font-family: 'Segoe UI', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+}
+ .treatment-menu {
+	 justify-content: center;
+	 padding-left: 0;
+	 margin-bottom: 1em;
+}
+ .mainnav li, .treatment-menu li {
+	 margin: 0 0 0 1em;
+	 text-transform: uppercase;
+}
+ .mainnav li:first-child, .treatment-menu li:first-child {
+	 margin-left: 0;
+}
+ .treatment-menu a {
+	 box-shadow: 3px 3px 8px rgba(0, 0, 0, .2);
+}
+ .mainnav a, .treatment-menu a {
+	 font-size: 0.8em;
+	 text-decoration: none;
+	 color: #192657;
+	 font-weight: bold;
+	 padding: 0.5em 0;
+	 display: inline-block;
+}
+ .treatment-menu a {
+	 border: 1px solid;
+	 font-weight: normal;
+	 margin-bottom: 0.8em;
+	 padding-left: 0.5em;
+	 padding-right: 0.5em;
+	 border-radius: 3px;
+}
+ .treatment-menu a:hover {
+	 background-color: #f3f3f3;
+}
+ .footnav {
+	 margin: 0;
+	 padding: 0;
+	 list-style-type: none;
+}
+ .footnav li {
+	 margin: 0;
+	 padding: 0;
+}
+ .footnav a {
+	 color: #192657;
+	 text-decoration: none;
+}
+ .footnav a::before {
+	 content: '\25B6';
+	 padding-right: 0.5em;
+	 color: #bfc9ed;
+}
+ .footnav a:hover::before {
+	 color: #192657;
+}
+ .main .inline-tel {
+	 color: inherit;
+	 text-decoration: none;
+}
+ .main .inline-tel:hover {
+	 text-decoration: underline;
+}
+ .main .inline-tel svg {
+	 transform: translateY(4px);
+	 padding-right: 0.1em;
+}
+ @media screen and (min-width: 680px) {
+	 .footnav {
+		 column-count: 2;
+		 column-gap: 2em;
+	}
+}
+ 

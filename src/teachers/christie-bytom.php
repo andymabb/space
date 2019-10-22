@@ -1,0 +1,4 @@
+<h1>Christie Bytom</h1>
+<img src="images/teachers/bio-pages/christie-bytom.jpg" alt="Christie Bytom" class="w350fr">
+<p>Christie has been teaching martial arts and self defence for over 20 years and came to yoga as a therapy to heal her sports injuries. She completed her 200 hour Fire Angel Yoga Teacher Training with Ginny Moffett in 2017.</p>
+<p>Christie teaches Hatha Yoga (all levels) and the Hatha Flow Intermediate Class at the Space and is passionate about the rehabilitative benefits that yoga can bring to our mind, body and spirit.  She welcomes all ages and abilities to her flowing classes interweaved with yoga philosophy designed to stretch and strengthen the body and relax the mind.</p>

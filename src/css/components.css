@@ -1,0 +1,340 @@
+/* Teachers */
+.teacher-list{
+  display:flex;
+  flex-flow:wrap;
+  text-align: center;
+  justify-content:space-between;
+}
+
+@supports (display: grid) {
+    @supports not (display: -ms-grid) {
+        .teacher-list{
+          display: grid;
+          grid-template-columns: repeat(2,1fr);
+          grid-gap: 1em;
+        }
+    }
+}
+
+.teacher-list > *{
+  display:flex;
+  flex-direction:column;
+  border:1px solid #dae1e8;
+  border-radius:3px;
+  width:48%;
+  text-decoration: none;
+  color:inherit;
+  margin-bottom: 1em;
+}
+
+@supports (display: grid) {
+    @supports not (display: -ms-grid) {
+        .teacher-list > *{
+          width:auto;
+          margin-bottom: 0;
+        }
+    }
+}
+
+.teacher-list > *:hover .teacher-name{
+  color:#fe8a02;
+}
+
+
+.teacher-image{
+  background: #e9faff;
+  line-height: 1;
+  font-size: 0;
+}
+
+.teacher-image img{
+  mix-blend-mode: luminosity;
+  opacity:.9;
+}
+
+.teacher-image img:hover{
+  mix-blend-mode: unset;
+  opacity:1;
+}  
+
+
+.teacher-list img{
+  max-width: 100%;
+}
+
+.teacher-info{
+  padding: 1em;
+}
+
+.teacher-name{
+    color: #333333;
+    font-size: 1.375rem;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    margin: 0;
+    transition:all .2s;
+}
+
+.teacher-title{
+    color: #656565;
+    display: block;
+    font-size: 0.75rem;
+    letter-spacing: 0.0625rem;
+    line-height: 1.16667;
+    margin-top: 0.5rem;
+    text-transform: uppercase;
+}
+
+/* Prices & Packages Table */
+
+.packages{
+  margin-bottom: 1em;
+  width:100%;
+  border:1px solid #ccc;
+}
+
+.packages tr:nth-child(even){
+  background-color: rgba(205,205,205,.2);
+}
+
+.packages td{
+  padding: .5em 1em;
+}
+
+.packages td:last-child{
+  min-width:100px;
+  max-width: 115px;
+  text-align: center;
+}
+
+/* Products */
+.product{
+  margin-bottom: 1em;
+}
+
+.product-image{
+  margin: 0 0 1em 0;
+}
+
+.price-buy{
+  display:flex;
+  align-items:center;
+}
+
+.price{
+  margin: 0 2em 0 0;
+}
+
+@media screen and (min-width:680px){
+
+  /* Products */
+
+  .product{
+    display:flex;
+    flex-direction:row-reverse;
+    padding: 1em;
+    border:1px solid #ccc;
+  }
+
+  .product-image{
+    margin: 0 0 0 2em;
+  }
+
+  .price-buy{
+    justify-content:flex-end;
+  }
+
+  .teacher-list > *{
+    width:32%;
+  }
+
+}
+
+
+@supports (display: grid) {
+    @supports not (display: -ms-grid) {
+
+        .teacher-list{
+          grid-template-columns: repeat(3,1fr);
+        }
+        .teacher-list > *{
+          width:auto;
+        }
+    }
+}
+
+
+/* Frequently asked questions and treatments */
+
+.questions, .treatments, .therapies{
+  list-style-type: none;
+  padding: 0;
+}
+
+.questions h2{
+  cursor: pointer;
+  font-size: 1.2em;
+}
+
+[data-accordion] [data-content] {
+    overflow: hidden;
+    max-height: 0;
+}
+
+[data-control]{
+    border-bottom: 1px solid rgba(205,205,205,.5);
+    padding: 0 2em 0 0;
+}
+
+.therapies [data-control]{
+  margin-bottom: .5em;
+  font-size: 1.3em;
+}
+
+[data-content] [data-accordion] {
+    border: 0;
+    padding: 0;
+}
+
+[data-content] p:last-child{
+  margin: 0;}
+
+.therapies [data-content] p:last-child{
+  margin: 0 0 1em 0;}
+
+.questions  .open [data-content] {
+  background-color: rgba(205,205,205,.1);
+  margin-bottom: 1em;
+}
+
+[data-accordion] [data-control] {
+    position: relative;
+    padding-right: 1em;
+    }
+
+[data-accordion] > [data-control]:after {
+    content: "";
+    position: absolute;
+    right: 1em;
+    top: .2em;
+    height: 15px;
+    width: 24px;
+    background: url('../../images/down.png') center center no-repeat;
+    background-size: 50%;
+}
+
+[data-accordion].open > [data-control]:after {
+    transform: rotate(-180deg);
+}
+
+.therapies [data-accordion] > [data-control]:after {
+  background: url('../../images/svg/plus.svg') center center no-repeat;
+    background-size: 50%;
+}
+.therapies [data-accordion].open > [data-control]:after {
+    background: url('../../images/svg/minus.svg') center center no-repeat;
+    background-size: 50%;
+}
+
+.therapists-bios{
+  display:grid;
+  grid-template-columns: auto minmax(20ch, 60ch) minmax(100px, 200px);
+  grid-auto-flow: row dense;
+  justify-items:center;
+  align-items:center;
+  grid-gap: 1.5em 1em;
+}
+
+.therapist-name{
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  grid-column: 1;
+  margin: 0;
+  border-left:2px solid;
+}
+
+.therapist-text{
+  grid-column: 2;
+}
+
+.therapists-bios img{
+  grid-column: 3;
+  max-width: 100%;
+  border-radius: 50%;
+  box-shadow: 5px 5px 8px rgba(0,0,0,.1);
+  align-self: start;
+}
+
+.therapists-bios hr{
+  margin: 1em 3em 0;
+  background-color: rgba(0,0,255,.05);
+}
+
+@media screen and (max-width: 480px){
+  .therapist-name{
+    grid-column: 1 / -1;
+    writing-mode: horizontal-tb;
+    transform: rotate(0);
+    border:2px solid;
+    border-width: 0 0 2px 0;
+  }
+
+}
+
+
+/* Teacher pages - head */
+
+.teacher-header h1{
+  margin-bottom: .5em;
+}
+
+.teacher-header h1 small{
+  display: block;
+  font-weight: normal;
+  font-size: 70%;
+}
+
+.sm{margin-bottom: 1em;
+  line-height: 1;
+  padding: .3em;
+  border-radius:3px;
+  background-color: rgba(205,205,205,.6);
+}
+
+.sm a{display: inline-block;
+  padding:0 .3em;}
+
+.sm span{
+  display:block;
+  position: absolute;
+  left:-10000em;
+}
+
+
+.icon{height:1.2em;
+  width:1.2em;
+  fill:#192657;
+}
+
+.copyright .icon{
+  font-size: 2em;
+}
+
+.mob, .tel, .fb, .tw {display:inline-block; padding-right: 1em;}
+
+
+@media screen and (min-width:480px){
+
+  .teacher-header{
+    display:flex;
+    margin-bottom: 0;
+    justify-content:space-between;
+    align-items:center;
+  }
+
+  .copyright .icon{
+  font-size: 1.2em;
+}
+
+}

@@ -1,4 +1,4 @@
-# space
+# The Space - website
 Development files, build process and output files for The Space website.
 ## Requirements
 * Node

@@ -16,7 +16,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 <link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
 <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
-<link rel="stylesheet" href="build/css/main.min.css?25032019">
+<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -26,10 +26,14 @@ $page = basename($_SERVER["PHP_SELF"]);
 
 <main>
 <div class="main">
-<h1>Massage &amp; Treatments</h1>
-
-<p>At the Space we offer a wide variety of Complimentary and well-being treatments and therapies in our Healing Room.</p>
-<p>Please contact the therapist directly to book your appointment.</p>
+<div class="cf">
+	<img src="images/therapy-room.jpg" alt="The healing room" class="fr">
+	<h1>Massage &amp; Treatments</h1>
+	
+	<p>At the Space we offer a wide variety of Complimentary and well-being treatments and therapies in our <a href="#therapists">Healing Room</a>.</p>
+	<p>Please contact the therapist directly to book your appointment.</p>
+</div>
+<hr>
 <ul class="therapies" data-accordion-group>
 	<li id="atf" data-accordion>
 		<h2 data-control>Aroma-therapeutic Facials</h2>
@@ -156,13 +160,6 @@ $page = basename($_SERVER["PHP_SELF"]);
 		</div>
 	</li>
 
-	<!-- <li id="tm" data-accordion>
-		<h2 data-control>Thai Massage</h2>
-		<div data-content>
-		<p>Thai Massage is an ancient healing practice which combines acupressure massage and yoga stretching to enhance full body wellness and energetic harmony.</p>
-		<p>To book a treatment, please call <span id="kate-france">Kate France</span> on 07754804730 or email <a href="mailto:kate@everythingyogauk.com">kate@everythingyogauk.com</a></p>	
-		</div>
-	</li> -->
 </ul>
 
 <h2 id="therapists">Hire the Healing Room</h2>
@@ -204,14 +201,6 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<hr>
 	</div>
 
-	<!-- <h3 id="kate-france" class="therapist-name">Kate France</h3>
-	<img src="images/treatments/kate-france-sq.jpg" alt="Kate France">
-	<div class="therapist-text">
-		<p>Kate completed her 200 Hours (yoga alliance) yoga teacher training in Ashtanga Vinyasa in India, Goa in March 2015. She then went back in October to further her training (300 hours) where her Vinyasa flow creativity flourished. </p>
-		<p>In 2017 Kate trained as a Thai Massage therapist; An ancient healing massage which combines acupressure energy work with yoga movement in a mindful, compassionate way. </p>
-		<p><strong>Call: 07754 804730</strong></p>
-		<hr>
-	</div> -->
 
 	<h3 id="bianca-talyarkhan" class="therapist-name">Bianca Talyarkhan</h3>
 	<img src="images/treatments/bianca-talyarkhan-sq.jpg" alt="Bianca Talyarkhan">
@@ -240,49 +229,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<hr>
 	</div>
 </div>
-<!-- 
-<div>
-<h2>Other services</h2>
-<p>The following services are offered by Bianca Talyarkhan:</p>
-<img src="images/treatments/bianca-talyarkhan.jpg" alt="Bianca Talyarkhan">
-<h3>theraBe treatments at The Space</h3>
-<p><a href="mailto:Biancatt@gmail.com">Bianca Talyarkhan</a> offers a range of treatments at The Space. She started her training as a therapist in 2002 and hasn’t looked back. She holds qualifications in Reiki, Health Kinesiology, Herbal medicine, Naturopathy and is a L5 qualified Sports and Remedial Soft Tissue Therapist. She has undergone further training to specialise in ScarWork, Pregnancy and Oncology massage and is constantly updating her skill set. Bianca’s treatments are individual to the specific needs of the client. She aims to nurture the body’s own healing ability, provide knowledge and understanding of how to maintain and look after the body, and nourish the mind-body-soul connection. </p>
-<p><a href="tel:07798848066" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07798 848066</span></a></p>
-<p><a href="mailto:Biancatt@gmail.com"><span>Biancatt@gmail.com</span></a></p>
-<h3 id="bff">The Blend Fascial Facials<sup>&reg;</sup></h3>
 
-<h3 id="sw">ScarWork</h3>
-<p>ScarWork is a gentle therapy developed by Sharon Wheeler in the US to help improve the look and feel of scars. ScarWork uses light touch to help your scars feel and function better. It works to unstick the fascia around and underneath the Scars, promoting further healing. Often nerve pain, itching and sensitivity are reduced and mobility in the area increases. Visually your scar may look less prominent and appear flatter. Even people who do not like their scars being touched find that by progressing slowly towards the scar, at their own pace, promotes changes in sensitivity levels which allows for work to be done on the scar itself. Most scars, regardless of age, can be treated with ScarWork. The exceptions are keloid scars and stretch marks. </p>
-<h3 id="om">Oncology Massage</h3>
-
-<h3 id="ppm">Pregnancy and Postnatal Massage</h3>
-<p>Pregnancy and giving birth is the ultimate whole body event! Growing a baby, preparing your body for birth and caring for your changing body should be approached as if you were an athlete&hellip; no athlete would enter the arena without training, and no woman should have to give birth without body preparation. Massage can help during pregnancy to keep you mobile, relaxed and ease the typical pregnancy niggles – lower back pain, carpel tunnel, swollen wrists and ankles, trouble sleeping. Post birth, massage can help you to heal, reduce pain and adjust to your new mama role – feeding, carrying and bending to pick up and put down your baby. It is post event work for the most deserving of athletes. </p>
-
-<p>The following services are offered by Caroline Webster:</p>
-<h3 id="ch">Clinical Hypnotherapy for Anxiety &amp; Stress Management, &pound;75 per
-	90 minutes</h3>
-<p>Using an integrated holistic approach to clinical hypnotherapy, Caroline can combine Mindfulness therapy, Therapeutic Art, Solutions-focused Coaching and CBT with Hypnosis in tailored client sessions, to help support women to release negative thoughts and emotions, anxiety, stress, past pain, anger and get to the bottom of weight issues and addictive behaviours.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-<h3 id="ar">Angel Reiki, &pound;50 per hour </h3>
-<p>Using the energy of Angels to support Reiki healing, Caroline can help clients to experience a deeper release of negative emotions and move in to a peaceful state of well-being after just one session.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-<h3 id="gh">Angel Guided Hypnosis, &pound;65 per hour</h3> 
-<p>Harnessing the energy of Angels during Hypnosis, Caroline invites you to event a deeper Hypnosis experience where you can gather insights and knowledge, and meet your Guardian Angel to assist in deep emotional healing.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-<h3 id="gv">Guided Visualisation Meditation, &pound;50 per hour</h3> 
-<p>Using the power of visualization therapy &amp; meditation Caroline invites you to experience a deeper Meditation experience where you can gather insights and knowledge, reduce emotional stress &amp; anxiety and support pain management.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-<h3 id="ic">Inner Child Healing Hypnosis, &pound;65 per hour</h3> 
-<p>Using the power of Hypnosis, Caroline invites you to meet your inner child and experience valuable insight and self-healing, to avail a deeper understanding for yourself.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-<img src="images/treatments/caroline-webster.jpg" alt="Caroline Webster">
-<h3>About Caroline</h3>
-<p>Caroline Webster founded Holistic Health Solutions to provide Clients with an integrative and mindful approach to their preventative healthcare.</p>
-<p>Caroline is a certified Clinical Hypnotherapist, Health &amp; Lifestyle Coach, Reiki II Practitioner and Mindfulness Teacher, and specializes in treating Stress &amp; Anxiety, and Coaches Healthy habit change for women of all ages.</p>
-<p>She is a member of the Australian Society of Clinical Hypnotherapists, National Council for Hypnotherapy UK, NICE, and is a registered UK Mindfulness Now Teacher.</p>
-<p>As a Certified Health &amp; Wellness Coach she is also a member of the International Coaching Federation.</p>
-<a href="tel:07551507568" title="Mobile - Call 07551 507568" class="inline-tel"><svg class="icon icon-mobile"><use xlink:href="#icon-mobile"></use></svg><span>07551 507568</span></a>
-</div> -->
 
 <p class="top"><a href="#" title="Top of the page"><svg class="icon icon-arrow-up2"><use xlink:href="#icon-arrow-up2"></use></svg><span>Top</span></a></p>
 </div>
@@ -292,7 +239,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 
 <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script type="text/javascript" src="build/js/jquery.accordion.min.js"></script>
+<script type="text/javascript" src="js/scripts.min.js"></script>
 <script type="text/javascript">
       $(document).ready(function() {
         $('[data-accordion]').accordion({

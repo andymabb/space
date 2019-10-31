@@ -229,7 +229,7 @@
 }
 
 .therapies [data-accordion] > [data-control]:after {
-  background: url('../../images/svg/plus.svg') center center no-repeat;
+  background: url('../images/svg/plus.svg') center center no-repeat;
     background-size: 50%;
 }
 .therapies [data-accordion].open > [data-control]:after {

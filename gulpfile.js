@@ -10,6 +10,7 @@ const postcssImport = require("postcss-import");
 const cssmin = require("gulp-clean-css");
 const sourcemaps = require("gulp-sourcemaps");
 const minifyHTML = require("gulp-htmlmin");
+const changed = require('gulp-changed');
 const browserSync = require('browser-sync');
 const cachebust = require('gulp-cache-bust');
 const nunjucksRender = require('gulp-nunjucks-render');
@@ -59,6 +60,7 @@ exports.js = js;
 
 function html(){
     return gulp.src(paths.html.src)
+        .pipe(changed(paths.html.dest))
         .pipe(cachebust({type: 'timestamp'}))
         .pipe(minifyHTML({collapseWhitespace: true}))
         .pipe(gulp.dest(paths.html.dest))

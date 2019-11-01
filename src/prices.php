@@ -36,7 +36,8 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<tr>
 			<td>Annual Membership</td>
 			<td>£950</td>
-			<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13392"></healcode-widget></td>
+			<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13392" />
+      </td>
 		</tr>
 	</tbody>
 </table>
@@ -49,31 +50,36 @@ $page = basename($_SERVER["PHP_SELF"]);
     <tr>
       <td>Introductory Offer: Unlimited Yoga Classes (valid 10 days)</td>
       <td>£29.99</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10272"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10272" />
+      </td>
     </tr>
 
     <tr>
       <td>Drop in (valid one week)</td>
       <td>£15.00</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10123"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10123" />
+      </td>
     </tr>
 
     <tr>
       <td>12 class card (Valid 2 months)<small> &ndash; per class price &pound;9.16</small></td>
       <td>£110.00</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12369"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12372" />
+      </td>
     </tr>
 
     <tr>
       <td>8 class card (Valid 1 month)<small> &ndash; per class price &pound;9.99</small></td>
       <td>£79.99</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12372" /></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12363" />
+      </td>
     </tr>
 
     <tr>
     	<td>4 Class Card (valid 1 month)<small> &ndash; per class price &pound;11.25</small></td>
     	<td>£45.00</td>
-    	<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12353"></healcode-widget></td>
+    	<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12353" />
+      </td>
     </tr>
 
     <tr>
@@ -85,13 +91,15 @@ $page = basename($_SERVER["PHP_SELF"]);
     <tr>
       <td>One-to-one personal yoga class</td>
       <td>£45.00</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10122"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10308" />
+      </td>
     </tr>
 
     <tr>
       <td>Yoga &amp; Relaxation Day</td>
       <td>£70.00</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13391"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13391" />
+      </td>
     </tr>
     
     </tbody>
@@ -174,4 +182,3 @@ $page = basename($_SERVER["PHP_SELF"]);
 <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 </body>
 </html>
-

@@ -67,7 +67,7 @@ $page = basename($_SERVER["PHP_SELF"]);
     <tr>
       <td>8 class card (Valid 1 month)<small> &ndash; per class price &pound;9.99</small></td>
       <td>£79.99</td>
-      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12363"></healcode-widget></td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12372" /></td>
     </tr>
 
     <tr>

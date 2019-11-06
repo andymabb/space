@@ -131,11 +131,11 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<span class="teacher-info"><p class="teacher-name">Georgie Davies</p>
 			<span class="teacher-title">Vinyasa Flow</span></span>
 	</a>
-	<a href="teacher.php?t=tiffany-redman" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/tiffany-redman.jpg" alt="Tiffany Redman"></div>
-		<span class="teacher-info"><p class="teacher-name">Tiffany Redman</p>
-			<span class="teacher-title">Mother &amp; Baby / Ante Natal Yoga</span></span>
-	</a>
+<!-- 	<a href="teacher.php?t=tiffany-redman" class="teacher-card">
+	<div class="teacher-image"><img src="images/teachers/tiffany-redman.jpg" alt="Tiffany Redman"></div>
+	<span class="teacher-info"><p class="teacher-name">Tiffany Redman</p>
+		<span class="teacher-title">Mother &amp; Baby / Ante Natal Yoga</span></span>
+</a> -->
 
 	<!-- <a href="teacher.php?t=philippa-barclay" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/philippa-barclay.jpg" alt="Philippa Barclay"></div>

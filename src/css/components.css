@@ -36,10 +36,15 @@
     }
 } 
 
-.teacher-list > *:hover .teacher-name{
-  color:#fe8a02;
+.teacher-list > *:hover{
+  border-color: rgba(0,0,0,.5);
+  background-color: #edfaff;
 }
 
+.teacher-list > *:hover .teacher-name
+{
+  color:#fe8a02;
+}
 
 .teacher-image{
   background: #e9faff;
@@ -47,21 +52,10 @@
   font-size: 0;
 }
 
-.teacher-image img{
-  mix-blend-mode: luminosity;
-  opacity:.9;
-}
-
-.teacher-image img:hover,
-.teacher-image img:focus
-{
-  mix-blend-mode: unset;
-  opacity:1;
-}  
-
 
 .teacher-list img{
   max-width: 100%;
+  height: auto;
 }
 
 .teacher-info{

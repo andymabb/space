@@ -58,11 +58,11 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<span class="teacher-title">Yoga Therapist</span></span>
 	</a>
 
-	<a href="teacher.php?t=kate-france" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/kate-france.jpg" alt="Kate France"></div>
-		<span class="teacher-info"><p class="teacher-name">Kate France</p>
-			<span class="teacher-title">Golden Yoga / Fit Flow / Yin Yoga</span></span>
-	</a>
+<!-- 	<a href="teacher.php?t=kate-france" class="teacher-card">
+	<div class="teacher-image"><img src="images/teachers/kate-france.jpg" alt="Kate France"></div>
+	<span class="teacher-info"><p class="teacher-name">Kate France</p>
+		<span class="teacher-title">Golden Yoga / Fit Flow / Yin Yoga</span></span>
+</a> -->
 
 	<!-- <a href="teacher.php?t=catri-barrett" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/catri-barrett.jpg" alt="Catree Barrett"></div>

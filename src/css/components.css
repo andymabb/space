@@ -52,7 +52,9 @@
   opacity:.9;
 }
 
-.teacher-image img:hover{
+.teacher-image img:hover,
+.teacher-image img:focus
+{
   mix-blend-mode: unset;
   opacity:1;
 }  

@@ -27,14 +27,14 @@
   margin-bottom: 1em;
 }
 
-@supports (display: grid) {
+ @supports (display: grid) {
     @supports not (display: -ms-grid) {
         .teacher-list > *{
           width:auto;
           margin-bottom: 0;
         }
     }
-}
+} 
 
 .teacher-list > *:hover .teacher-name{
   color:#fe8a02;
@@ -153,18 +153,32 @@
 
 }
 
-
 @supports (display: grid) {
     @supports not (display: -ms-grid) {
 
         .teacher-list{
-          grid-template-columns: repeat(3,1fr);
+          grid-template-columns: repeat(2,1fr);
         }
         .teacher-list > *{
           width:auto;
         }
     }
 }
+
+@media screen and (min-width: 640px){
+
+  @supports (display: grid) {
+      @supports not (display: -ms-grid) {
+
+          .teacher-list{
+            grid-template-columns: repeat(3,1fr);
+          }
+
+      }
+  }
+
+}
+
 
 
 /* Frequently asked questions and treatments */

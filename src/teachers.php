@@ -30,6 +30,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 <h1>Teachers</h1>
 <p>All about our brilliant teachers &hellip;</p>
 <p><small>Click on image for more information</small></p>
+
 <div class="teacher-list">
 	<a href="teacher.php?t=ginny-moffett" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/ginny-moffett.jpg" alt="Ginny Moffett"></div>

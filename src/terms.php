@@ -192,6 +192,20 @@ $page = basename($_SERVER["PHP_SELF"]);
 </div>
 
 <p><strong>These Terms and Conditions and any disputes arising from them shall be governed by the laws of England and subject to the exclusive jurisdiction of the English courts.</strong></p>
+<hr>
+<h2>Complaints</h2>
+<h3>Complaints Procedure</h3>
+<p>In the unlikely event of a student being dissatisfied with any aspect of The Space Yoga & Healing Studio Ltd, a Complaints Procedure is available. We deal with all grievances as rapidly and efficiently as possible for the benefit of all parties concerned. You can make informal complaints in person to a member of The Space Yoga & Healing  management team. We will aim to resolve your issue within 48 hours wherever possible. We will notify you of the outcome in writing.</p>
+<h3>Making A Formal Complaint</h3>
+<p>If you would prefer to make a formal complaint, please write to the Studio Owner at The Space Yoga & Healing Studio at our business address. Complaints received in writing follow a set procedure:</p>
+    <ul>
+        <li>Firstly, we will acknowledge the complaint within 48 hours and, after an investigation, we will arrange a meeting with you.</li>
+        <li>Secondly, the studio owner or a representative of the studio owner, teacher and client will attend the meeting.</li>
+        <li>We will record details of the meeting and will work toward a resolution that is satisfactory for all parties involved.</li>
+        <li>We will keep the client informed throughout the complaints procedure process.</li>
+    </ul>
+<h3>Further Complaints</h3>
+<p>Finally, if you are unsatisfied and wish to escalate your complaint, you can contact the relevant governing body or professional organisation: <a href="https://www.yogaallianceprofessionals.org/">Yoga Alliance Professionals</a>.</p>
 </div><!-- .main end -->
 </main>
 

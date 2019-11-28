@@ -185,11 +185,11 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Hatha Yoga</span></span>
 	</a>
 
-	<a href="teacher.php?t=mische-howard" class="teacher-card">
+	<!-- <a href="teacher.php?t=mische-howard" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/mische-howard.jpg" alt="Mische Howard"></div>
 		<span class="teacher-info"><p class="teacher-name">Mische Howard</p>
 			<span class="teacher-title">Restorative Yoga</span></span>
-	</a>
+	</a> -->
 
 	<a href="teacher.php?t=carl-hinton" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/carl-hinton.jpg" alt="Carl Hinton"></div>
@@ -219,11 +219,18 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Pregnancy Yoga</span></span>
 	</a>
 
-	<a href="teacher.php?t=bex-wells" class="teacher-card">
+	<!-- <a href="teacher.php?t=bex-wells" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/bex-wells.jpg" alt="Bex Wells"></div>
 		<span class="teacher-info">
 			<p class="teacher-name">Bex Wells</p>
 			<span class="teacher-title">Hatha Yoga</span></span>
+	</a> -->
+
+	<a href="teacher.php?t=lucy-vickers" class="teacher-card">
+		<div class="teacher-image"><img src="images/teachers/lucy-vickers.jpg" alt="Lucy Vickers"></div>
+		<span class="teacher-info">
+			<p class="teacher-name">Lucy Vickers</p>
+			<span class="teacher-title">Rocket Yoga</span></span>
 	</a>
 
 </div>

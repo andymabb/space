@@ -1,9 +1,6 @@
 <div class="teacher-header">
 	<h1>Philly Gray</h1>
 	<div class="sm">
-		<!-- <a href="https://www.linkedin.com/in/ginny-moffett-22022825/" title="Linked In"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg><span>LinkedIn</span></a>
-		<a href="https://www.facebook.com/TheSpaceYogaHealingStudio/" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
-		<a href="https://twitter.com/fireangelyoga" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span>Twitter</span></a> -->
 		<a href="https://phillyyoga01.wixsite.com/mysite" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
 	</div>
 </div>

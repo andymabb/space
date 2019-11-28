@@ -2,7 +2,6 @@
 	<h1>Vicki Austin</h1>
 	<div class="sm">
 			<a href="https://www.linkedin.com/in/vicki-austin-2817a836/" title="Linked In"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg><span>LinkedIn</span></a>
-			<a href="https://www.facebook.com/YogaBucks/" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 			<a href="http://yogaaylesbury.co.uk/" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
 		</div>
 </div>

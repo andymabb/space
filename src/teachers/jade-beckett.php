@@ -1,7 +1,6 @@
 <div class="teacher-header">
 	<h1>Jade Beckett</h1>
 	<div class="sm">
-		<a href="http://www.facebook.com/Pride.Yoga" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 		<a href="https://www.prideyoga.co.uk" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
 	</div>
 </div>

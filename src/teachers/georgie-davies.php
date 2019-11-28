@@ -1,7 +1,6 @@
 <div class="teacher-header">
 	<h1>Georgie Davies</h1>
 	<div class="sm">
-		<a href="https://www.facebook.com/yogipodyoga" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 		<a href="https://twitter.com/yogi_pod" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span>Twitter</span></a>
 		<a href="https://yogipod.co.uk/" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
 	</div>

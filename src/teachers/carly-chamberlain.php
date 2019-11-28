@@ -2,7 +2,6 @@
 <h1>Carly Chamberlain</h1>
 <div class="sm">
 		<a href="https://www.linkedin.com/in/carly-chamberlain-15631661/"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg><span>LinkedIn</span></a>
-		<a href="https://www.facebook.com/siromaniwell/" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 		<a href="https://twitter.com/siromaniwell" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span>Twitter</span></a>
 	</div>
 </div>

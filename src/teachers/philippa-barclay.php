@@ -1,8 +1,5 @@
 <div class="teacher-header">
 	<h1>Philippa Barclay</h1>
-	<div class="sm">
-			<a href="https://www.facebook.com/mindbodyblissyoga/" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
-	</div>
 </div>
 <img src="images/teachers/bio-pages/philippa-barclay.jpg" alt="Philippa Barclay" class="w350fr">
 <p>I have always had a love of practicing yoga and felt a yearning to begin my journey of becoming a yoga teacher whilst meditating at a yoga retreat in Thailand some years ago whilst taking some time out from my Corporate job.</p>

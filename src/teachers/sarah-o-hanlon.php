@@ -1,7 +1,6 @@
 <div class="teacher-header">
 	<h1>Sarah O'Hanlon</h1>
 	<div class="sm">
-		<a href="https://www.facebook.com/yogapath.co.uk/" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 		<a href="https://www.yogapath.co.uk" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
 	</div>
 </div>

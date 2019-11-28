@@ -2,7 +2,6 @@
 	<h1>Laura Avery</h1>
 	<div class="sm">
 		<a href="http://laurayoga.co.uk" title="Personal Website"><svg class="icon icon-display"><use xlink:href="#icon-display"></use></svg><span>Website</span></a>
-		<a href="https://www.facebook.com/LauraYogaUK" title="Facebook"><svg class="icon icon-facebook2"><use xlink:href="#icon-facebook2"></use></svg><span>Facebook</span></a>
 	</div>
 </div>
 <img src="images/teachers/bio-pages/laura-avery.jpg" alt="Laura Avery" class="w350fr">

@@ -1,0 +1,9 @@
+<div class="teacher-header">
+	<h1>Stephanie de Courcy-Hughes</h1>
+
+</div>
+<img src="images/teachers/bio-pages/sdc-hughes.jpg" alt="Stephanie de Courcy-Hughes" class="w350fr">
+<p>Stephanie began going to regular yoga classes around 8 years ago. This self-loving, non-competitive form of exercise had her hooked and she began practicing on a daily basis at home. She enjoyed the way that yoga encouraged her to work within the abilities of her own body and the powerful positive affects her practice had on her overall wellbeing. She knew early on that she wanted to eventually train to teach.</p>
+<p>After having worked in mental health services for 5 years, Stephanie left her job to travel, making the decision whilst on the road to go to Bali and take her 200 hour training with The Peaceful Warriors in Canggu. The philosophy and history of yoga captivated her and, wanting to deepen her knowledge, she went on to train a few months later for a further 300 hours in Pavones, Costa Rica, with Pranaluz Conscious Living.</p>
+<p>Having personal experience of mental illness and having worked in the sector, she is dedicated to an empathic, compassionate teaching style, as she knows that yoga can support not just our physical bodies, but our emotional and mental bodies as well. Stephanie’s ethos is to create a safe, loving space for students to explore yoga. She usually teaches Hatha, with emphasis on alignment so as to ensure students practice safely. Stephanie encourages students to use the breath as their guide and root.</p>
+<p><strong>Class Description</strong><br>A class suitable for all levels. Easing into the practice with pranayama (breathwork), moving through asana (yoga poses) mindfully, with focus on alignment and the breath. Different options of poses for different bodies and abilities. All are welcome.</p>

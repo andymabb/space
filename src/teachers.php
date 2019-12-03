@@ -174,6 +174,13 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Rocket Yoga</span></span>
 	</a>
 
+	<a href="teacher.php?t=sdc-hughes" class="teacher-card">
+		<div class="teacher-image"><img src="images/teachers/sdc-hughes.jpg" alt="Stephanie de Courcy-Hughes"></div>
+		<span class="teacher-info">
+			<p class="teacher-name">Stephanie de Courcy-Hughes</p>
+			<span class="teacher-title">Yoga</span></span>
+	</a>
+
 </div>
 <p class="top"><a href="#" title="Top of the page"><svg class="icon icon-arrow-up2"><use xlink:href="#icon-arrow-up2"></use></svg><span>Top</span></a></p>
 </div><!-- .main end -->

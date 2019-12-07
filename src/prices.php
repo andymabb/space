@@ -66,23 +66,44 @@ $page = basename($_SERVER["PHP_SELF"]);
       </td>
     </tr>
 
-    <tr>
+    <!-- <tr>
       <td>12 class card (Valid 2 months)<small> &ndash; per class price &pound;9.16</small></td>
       <td>£110.00</td>
       <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12372" />
       </td>
-    </tr>
+    </tr> -->
 
     <tr>
+      <td>12 class card (valid 68 days)</td>
+      <td>£99.00</td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12372" />
+      </td>
+    </tr>
+
+    <!-- <tr>
       <td>8 class card (Valid 1 month)<small> &ndash; per class price &pound;9.99</small></td>
       <td>£79.99</td>
       <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12363" />
       </td>
-    </tr>
+    </tr> -->
 
     <tr>
+      <td>8 class card (valid 38 days)</td>
+      <td>£71.99</td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12363" />
+      </td>
+    </tr>
+
+    <!-- <tr>
     	<td>4 Class Card (valid 1 month)<small> &ndash; per class price &pound;11.25</small></td>
     	<td>£45.00</td>
+    	<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12353" />
+      </td>
+    </tr> -->
+
+    <tr>
+    	<td>4 Class Card (valid 38 days)</td>
+    	<td>£40.40</td>
     	<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="12353" />
       </td>
     </tr>
@@ -129,21 +150,39 @@ $page = basename($_SERVER["PHP_SELF"]);
       <td>Buy at the Studio</td>
     </tr>
 
-    <tr>
+    <!-- <tr>
       <td>12 class card (valid 2 months)</td>
       <td>£105.00<small> &ndash; per class price &pound;8.75</small></td>
       <td>Buy at the Studio</td>
-    </tr>
+    </tr> -->
 
     <tr>
-      <td>8 class card (valid 1 month)</td>
-      <td>£75.00<small> &ndash; per class price &pound;9.38</small></td>
+      <td>12 class card (valid 68 days)</td>
+      <td>£94.50</td>
       <td>Buy at the Studio</td>
     </tr>
 
+    <!-- <tr>
+      <td>8 class card (valid 1 month)</td>
+      <td>£75.00<small> &ndash; per class price &pound;9.38</small></td>
+      <td>Buy at the Studio</td>
+    </tr> -->
+
     <tr>
+      <td>8 class card (valid 38 days)</td>
+      <td>£67.50</td>
+      <td>Buy at the Studio</td>
+    </tr>
+
+    <!-- <tr>
     	<td>4 Class Card (valid 1 month)</td>
     	<td>£40.00<small> &ndash; per class price &pound;10.00</small></td>
+    	<td>Buy at the Studio</td>
+    </tr> -->
+
+    <tr>
+    	<td>4 Class Card (valid 38 days)</td>
+    	<td>£36.00</td>
     	<td>Buy at the Studio</td>
     </tr>
   </tbody>
@@ -157,21 +196,39 @@ $page = basename($_SERVER["PHP_SELF"]);
       <td>Buy at the Studio</td>
     </tr>
 
-    <tr>
+    <!-- <tr>
       <td>12 class card (valid 2 months)</td>
       <td>£105.00<small> &ndash; per class price &pound;8.75</small></td>
       <td>Buy at the Studio</td>
-    </tr>
+    </tr> -->
 
     <tr>
-      <td>8 class card (valid 1 month)</td>
-      <td>£75.00<small> &ndash; per class price &pound;9.38</small></td>
+      <td>12 class card (valid 68 days)</td>
+      <td>£94.50</td>
       <td>Buy at the Studio</td>
     </tr>
 
+    <!-- <tr>
+      <td>8 class card (valid 1 month)</td>
+      <td>£75.00<small> &ndash; per class price &pound;9.38</small></td>
+      <td>Buy at the Studio</td>
+    </tr> -->
+
     <tr>
+      <td>8 class card (valid 38 days)</td>
+      <td>£67.50</td>
+      <td>Buy at the Studio</td>
+    </tr>
+
+    <!-- <tr>
     	<td>4 Class Card (valid 1 month)</td>
     	<td>£40.00<small> &ndash; per class price &pound;10.00</small></td>
+    	<td>Buy at the Studio</td>
+    </tr> -->
+
+    <tr>
+    	<td>4 Class Card (valid 38 days)</td>
+    	<td>£36.00</td>
     	<td>Buy at the Studio</td>
     </tr>
 

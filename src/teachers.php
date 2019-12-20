@@ -139,12 +139,12 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Ashtanga Yoga</span></span>
 	</a>
 
-	<a href="teacher.php?t=jade-beckett" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/jade-beckett.jpg" alt="Jade Beckett"></div>
-		<span class="teacher-info">
-			<p class="teacher-name">Jade Beckett</p>
-			<span class="teacher-title">Hatha Yoga</span></span>
-	</a>
+<!-- 	<a href="teacher.php?t=jade-beckett" class="teacher-card">
+	<div class="teacher-image"><img src="images/teachers/jade-beckett.jpg" alt="Jade Beckett"></div>
+	<span class="teacher-info">
+		<p class="teacher-name">Jade Beckett</p>
+		<span class="teacher-title">Hatha Yoga</span></span>
+</a> -->
 	
 	<a href="teacher.php?t=victoria-lovatt-morris" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/victoria-lovatt-morris.jpg" alt="Victoria Lovatt Morris"></div>

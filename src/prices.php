@@ -30,7 +30,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 <p>At The Space we believe in a simple, transparent pricing policy offering our students as much flexibility and choice as possible.</p>
 <div class="stop-press">
 	<h1>Christmas Offer</h1>
-	<p class="c">10% discount and an extension of 7 days on all packages until December 31<sup>st</sup></p>	
+	<p class="c">10% discount and an extension of 7 days on all packages until midnight December 31<sup>st</sup></p>	
 </div>
 <p>
 	<a href="https://clients.mindbodyonline.com/classic/ws?studioid=89204&stype=42" class="buy ib fr">Gift Cards</a>

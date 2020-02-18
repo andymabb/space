@@ -281,6 +281,10 @@
   background-color: rgba(0,0,255,.05);
 }
 
+.therapist-tel{
+  color:inherit;
+}
+
 @media screen and (max-width: 480px){
   .therapist-name{
     grid-column: 1 / -1;

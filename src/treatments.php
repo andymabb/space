@@ -50,6 +50,14 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<p>To book call <a href="#vicky-page">Vicki Page</a> on <a href="tel:07825255085">07825 255085</a></p>	
 		</div>
 	</li>
+
+	<li id="ay" data-accordion>
+		<h2 data-control>Ayurvedic Diet &amp; Lifestyle Consultant</h2>
+		<div data-content>
+			<p>Ayurveda is concerned with bringing balance to the mind and body and can help with many ailments and presentations.  During a consultation, a detailed evaluation of your general health and wellbeing is taken along with an analysis of your unique doshic constitution.  Based on this information, and taking in to account any presenting symptoms you bring to the appointment, a personalised programme to suit you needs will be put together.  This will include advice and suggestions for diet, nutrition & lifestyle plus (where necessary) recommendations as to beneficial herbs, yoga, relaxation and breathing techniques. </p>
+			<p>To book call <a href="#vicky-austin">Vicky</a> on <a href="tel:07947149675">07947 149675</a></p>
+		</div>
+	</li>
 	
 	<li id="#bff" data-accordion>
 		<h2 data-control>Blend Fascial Facial<sup>&reg;</sup></h2>
@@ -103,6 +111,18 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<p>No Hands massage is a deep, releasing, rejuvenating and nourishing treatment. The therapist uses mainly the soft surfaces of the forearms to apply pressure allowing a powerful, deep and relaxing massage. This massage treatment is for relaxation and to help you let go of stress, but also to release muscular aches and pains. Clients often leave feeling rejuvenated after one treatment; although a few consecutive treatments may help to support a change in health or life situation.</p>
 		<p>The No Hands Back massage: releases all the tension from your spine, hips and neck and the whole of your back. The No Hands Full Body massage is a powerful flowing massage treatment that will leave you feeling, nurtured and rejuvenated. An amazingly deep treatment that will leave your whole body feeling transformed. The No Hands ' Back to Basics' massage: this treatment takes you right back to the basics of powerful touch - your breath, your muscles relaxing and absolute stillness of mind.</p>
 		<p>To book call <a href="#vicky-page">Vicki Page</a> on <a href="tel:07825255085">07825 255085</a></p>	
+		</div>
+	</li>
+
+	<li id="num" data-accordion>
+		<h2 data-control>Numerology</h2>
+		<div data-content>
+			<p>Numerology originates from ancient Egypt and Babylonia. It is knowledge of the divine, mystical connection between events in the real world and number vibrations.  The universe and everything within us is an energy vibration, vibrating at different frequencies.  Pythagoras; Mathematician, Scientist, Mystic and Philosopher, realised that the vibration of the cosmos comes down to numbers.  These numbers consistently reveal accurate information about a person’s talents, abilities, personality, mission and lessons for an individual’s development and evolution in this lifetime, via their date of birth and name. By understanding that everything in the world is dependent on, and can equate to numbers, a Numerologist can take multiple elements of a person and break them down into meaningful numbers through various methods.</p>
+			    <ul>
+			    	<li><strong>A Standard Personal Reading</strong> includes a booklet, containing your core numbers, plus other relevant numbers AND a 1 hour personal consultation with me to help you understand and take action on your reading: Normally <strong>£45, for customers of the Space £35!</strong></li>
+			    	<li><strong>An Extended Personal Reading</strong> includes a more comprehensive booklet, containing your core numbers, plus other relevant numbers PLUS a review of your previous year, your current year and a projection for the year ahead AND  a 2 hour personal consultation with me to help you understand and take action on your reading: Normally <strong>£70, for customers of the Space £60!</strong></li>
+			    </ul>
+			<p>To book call <a href="#katie-youers">Katie Youers</a> on <a href="tel:07845454675">07845454675</a> or email <a href="mailto:kickinkaratekate@hotmail.co.uk">kickinkaratekate@hotmail.co.uk</a></p>
 		</div>
 	</li>
 
@@ -188,16 +208,26 @@ $page = basename($_SERVER["PHP_SELF"]);
 	<div class="therapist-text">
 		<p>Ginny Moffett trained as a Reflexologist with the Bayly School of Reflexology, qualifying in 1989.</p>
 		<p>She has been practising for over 25 years and strongly believes in the healing and therapeutic benefits of this complimentary therapy.</p>
-		<p><strong>Call: 07791 165998</strong></p>
+		<p><strong>Call: <a href="tel:07791165998" class="therapist-tel">07791 165998</a></strong></p>
 		<hr>
 	</div>
 	<img src="images/treatments/ginny-moffett-sq.jpg" alt="Ginny Moffett">
+	
+	<h3 id="vicky-austin" class="therapist-name">Vicky Austin</h3>
+	<div class="therapist-text">
+		<p>Vicki Austin is an Ayurvedic Diet & Lifestyle Consultant (as well as an experienced yoga teacher) and offers consultations in The Healing Room.</p>
+		<p>She completed a Diploma in Ayurveda Diet & Lifestyle  (August 2014) at Ayurveda Pura under the expert tutelage of Dr Deepa Apte. </p>
+		<p><strong>Call: <a href="tel:07947149675" class="therapist-tel">07947 149675</a></strong></p>
+		<hr>
+	</div>
+	<img src="images/treatments/vicki-austin.jpg" alt="Vicki Austin">
+	
 	
 	<h3 id="vicky-page" class="therapist-name">Vicky Page</h3>
 	<img src="images/treatments/vicki-page-sq.jpg" alt="Vicky Page">
 	<div class="therapist-text">
 		<p>Vicki is qualified in 'No Hands' Massage, Reflexology, Aromatherapy Massage, Indian Head Massage, Aromatherapeutic Facials and is a Reiki Master. She continues her professional development with Gerry Pyves, the founder of No Hands Massage.</p>
-		<p><strong>Call: 07825 255085</strong></p>
+		<p><strong>Call: <a href="tel:07825255085" class="therapist-tel">07825 255085</a></strong></p>
 		<hr>
 	</div>
 
@@ -206,7 +236,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 	<img src="images/treatments/bianca-talyarkhan-sq.jpg" alt="Bianca Talyarkhan">
 	<div class="therapist-text">
 		<p>Bianca offers a range of treatments at The Space. She started her training as a therapist in 2002 and hasn’t looked back. She holds qualifications in Reiki, Health Kinesiology, Herbal medicine, Naturopathy and is a L5 qualified Sports and Remedial Soft Tissue Therapist. She has undergone further training to specialise in ScarWork, Pregnancy and Oncology massage and is constantly updating her skill set. Bianca’s treatments are individual to the specific needs of the client. She aims to nurture the body’s own healing ability, provide knowledge and understanding of how to maintain and look after the body, and nourish the mind-body-soul connection. </p>
-		<p><strong>Call: 07798 848066</strong></p>
+		<p><strong>Call: <a href="tel:07798848066" class="therapist-tel">07798 848066</a></strong></p>
 		<hr>
 	</div>
 
@@ -217,7 +247,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<p>With an emphasis on pure relaxation I aim to create a safe space where you can shut the world out and give yourself some proper, unadulterated 'Me' time. You deserve it!</p>
 		<p>Whether you’re seeking relaxation, invigoration, pain relief or just sheer indulgence Nurturia for you.</p>
 		<p>New clients receive a £10 discount and I offer a great loyalty discount and package deals to make regular sessions more affordable.</p>
-		<p><strong>Call: 07833 457152</strong></p>
+		<p><strong>Call: <a href="tel:07833457152" class="therapist-tel">07833 457152</a></strong></p>
 		<hr>
 	</div>
 
@@ -225,7 +255,22 @@ $page = basename($_SERVER["PHP_SELF"]);
 	<img src="images/treatments/victoria-lovatt-morris.jpg" alt="Victoria Lovatt Morris">
 	<div class="therapist-text">
 		<p>Victoria is a vinyasa and hatha yoga teacher at The Space, focussing on the healing power of intentional movement in bringing body and mind towards a state of balance. She is also trained in Reiki energy healing and is about to complete her Masters in 2019. She has trained in yoga bodywork with Brain Campbell and Jambo Truong, and her emphasis is upon creating a safe and nurturing environment for clients to relax in and to gently unlock the self-healing potential of the body through energy work.</p>
-		<p><strong>Call: 07807 248684</strong></p>
+		<p><strong>Call: <a href="tel:07807248684" class="therapist-tel">07807 248684</a></strong></p>
+		<hr>
+	</div>
+
+	<h3 id="katie-youers" class="therapist-name">Katie Youers</h3>
+	<img src="images/treatments/katie-youers.jpg" alt="Vkatie-youers">
+	<div class="therapist-text">
+		<p>I can help you to learn your key Core Numbers:</p> 
+	    <ul>
+	    	<li>Life Path Number – your mission, lessons and evolution</li>
+	    	<li>Expression or Key Number – your talents, abilities and likely career direction to assist your Life Path</li>
+	    	<li>Soul Urge – your inner most desires for this lifetime</li>
+	    	<li>Birthday Number – your added mission to assist your Life Path Number.</li>
+	    </ul>
+		<p>I will help you to use these numbers and other relevant numbers, to better understand the world and yourself as an individual.  This renewed self-knowledge will bring you renewed direction and purpose with a realisation of the abilities you possess to help you achieve your life purpose.  We can work together to help you to come up with a plan to move forward and celebrate your progress so far. </p>
+		<p><strong>Call: <a href="tel:07845454675" class="therapist-tel">07845 454675</a></strong></p>
 		<hr>
 	</div>
 </div>

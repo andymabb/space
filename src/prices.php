@@ -39,14 +39,14 @@ $page = basename($_SERVER["PHP_SELF"]);
 <table class="packages">
 	<tbody>
 		<tr>
-			<td>Annual Membership</td>
+			<td>Annual Membership<sup>*</sup> </td>
 			<td>£950</td>
 			<td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13392" />
       </td>
 		</tr>
 	</tbody>
 </table>
-
+<p><sup>*</sup>Valid for studio timetable classes <em>not</em> workshops or events</p>
 <h2 class="h4 c">Class Packages</h2>
 
 <table class="packages">
@@ -87,6 +87,12 @@ $page = basename($_SERVER["PHP_SELF"]);
       </td>
     </tr>
 
+    <tr>
+    	<td>Meditation 4 Class Card (valid 6 weeks)<small> &ndash; per class price &pound;7.49</small></td>
+    	<td>£29.99</td>
+    	<td>Buy at the Studio</td>
+    </tr>
+
     
     <tr>
       <td>Pregnancy 4 Class Card (valid 6 weeks)</td>
@@ -109,16 +115,6 @@ $page = basename($_SERVER["PHP_SELF"]);
     </tr>
     
     </tbody>
-</table>
-
-<table class="packages">
-	<tbody>
-		<tr>
-			<td>DROP-IN - 45 minute classes only</td>
-			<td>£7.00</td>
-			<td>Buy at the Studio</td>
-		</tr>
-	</tbody>
 </table>
 
 <h2 class="h4 c">Over 60's</h2>
@@ -149,6 +145,12 @@ $page = basename($_SERVER["PHP_SELF"]);
     	<td>Buy at the Studio</td>
     </tr>
 
+    <tr>
+    	<td>Meditation 4 Class Card (valid 6 weeks)<small> &ndash; per class price &pound;7.49</small></td>
+    	<td>£29.99</td>
+    	<td>Buy at the Studio</td>
+    </tr>
+
   </tbody>
 </table>
 <h2 class="h4 c">Under 18's</h2>
@@ -175,6 +177,12 @@ $page = basename($_SERVER["PHP_SELF"]);
     <tr>
     	<td>4 Class Card (valid 1 month)</td>
     	<td>£40.00<small> &ndash; per class price &pound;10.00</small></td>
+    	<td>Buy at the Studio</td>
+    </tr>
+
+    <tr>
+    	<td>Meditation 4 Class Card (valid 6 weeks)<small> &ndash; per class price &pound;7.49</small></td>
+    	<td>£29.99</td>
     	<td>Buy at the Studio</td>
     </tr>
 

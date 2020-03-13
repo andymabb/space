@@ -39,7 +39,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 <p>Whatever you are looking for from Yoga, you will find it at <strong>The Space</strong>.  Whether it&rsquo;s a fast-flowing dynamic workout, relaxation and meditation, rehabilitation following an injury, or just a fun practice with friends, <strong>The Space</strong> has a wide variety of <a href="classes.php">classes</a> to suit everyone, whatever your age and ability.</p>
 <img src="images/studio.jpg" alt="The Space Studio" class="fr">
 
-<p>A dedicated Yoga and Healing studio in Thame, <strong>The Space</strong> was created by Ginny Moffett of Fire Angel Yoga, in January 2009.  We have many talented and dedicated <a href="teachers.php">teachers</a> from diverse yoga backgrounds, offering our students the highest standards of teaching and expertise.  Our <a href="treatments.php">Healing Room</a> offers a range of massages and holistic treatments.</p>
+<p>A dedicated Yoga and Healing studio on the borders of Buckinghamshire, <strong>The Space</strong> was created by Ginny Moffett of Fire Angel Yoga, in January 2009.  We have many talented and dedicated <a href="teachers.php">teachers</a> from diverse yoga backgrounds, offering our students the highest standards of teaching and expertise.  Our <a href="treatments.php">Healing Room</a> offers a range of massages and holistic treatments.</p>
 
 <p>At <strong>The Space</strong>, our classes are mixed ability, so whether you have done lots of yoga, or none whatsoever, you are very welcome to come and join us.</p>
 <div class="center-button">

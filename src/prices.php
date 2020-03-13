@@ -94,11 +94,11 @@ $page = basename($_SERVER["PHP_SELF"]);
     </tr>
 
     
-    <tr>
+    <!-- <tr>
       <td>Pregnancy 4 Class Card (valid 6 weeks)</td>
       <td>£45.00</td>
       <td>Buy at the Studio</td>
-    </tr>
+    </tr> -->
 
     <tr>
       <td>One-to-one personal yoga class</td>

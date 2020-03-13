@@ -118,10 +118,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 		<h2 data-control>Numerology</h2>
 		<div data-content>
 			<p>Numerology originates from ancient Egypt and Babylonia. It is knowledge of the divine, mystical connection between events in the real world and number vibrations.  The universe and everything within us is an energy vibration, vibrating at different frequencies.  Pythagoras; Mathematician, Scientist, Mystic and Philosopher, realised that the vibration of the cosmos comes down to numbers.  These numbers consistently reveal accurate information about a person’s talents, abilities, personality, mission and lessons for an individual’s development and evolution in this lifetime, via their date of birth and name. By understanding that everything in the world is dependent on, and can equate to numbers, a Numerologist can take multiple elements of a person and break them down into meaningful numbers through various methods.</p>
-			    <ul>
-			    	<li><strong>A Standard Personal Reading</strong> includes a booklet, containing your core numbers, plus other relevant numbers AND a 1 hour personal consultation with me to help you understand and take action on your reading: Normally <strong>£45, for customers of the Space £35!</strong></li>
-			    	<li><strong>An Extended Personal Reading</strong> includes a more comprehensive booklet, containing your core numbers, plus other relevant numbers PLUS a review of your previous year, your current year and a projection for the year ahead AND  a 2 hour personal consultation with me to help you understand and take action on your reading: Normally <strong>£70, for customers of the Space £60!</strong></li>
-			    </ul>
+	    	<p>A Personal Reading includes a comprehensive booklet containing your core numbers, other relevant numbers, a review of your previous year, your current year and a projection for the year ahead as well as a 2 hour personal consultation with me to help you understand and take action on your reading. Cost: &pound;70</p>
 			<p>To book call <a href="#katie-youers">Katie Youers</a> on <a href="tel:07845454675">07845454675</a> or email <a href="mailto:kickinkaratekate@hotmail.co.uk">kickinkaratekate@hotmail.co.uk</a></p>
 		</div>
 	</li>

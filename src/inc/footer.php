@@ -14,6 +14,7 @@
 		<li><a href="faq.php">FAQ</a></li>
 		<li><a href="testimonials.php">Testimonials</a></li>
 		<li><a href="location.php">Location</a></li>
+		<li><a href="reviews.php">Reviews</a></li>
 		<li><a href="terms.php">Terms</a></li>
 	</ul>
 </nav>

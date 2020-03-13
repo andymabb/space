@@ -27,12 +27,11 @@ $page = basename($_SERVER["PHP_SELF"]);
 <main>
 <div class="main">
 
-<div class="stop-press">
-	<h1>Stop Press</h1>
-	<p>Yoga Retreat in Granada, Spain with Ginny</p>
-	<p>9<sup>th</sup> &ndash; 14<sup>th</sup> September 2020</p>
-<a href="https://www.luciayoga.com/yoga-retreat-with-ginny-moffett/">Book your place now!</a>
-</div>
+<!-- <div class="special">
+	<h1>Special Offer</h1>
+	<p>Get one class for £10 or three for £20</p>
+	<a href="#0" class="buy">Buy Now!</a>
+</div> -->
 
 <h1>Welcome</h1>
 <blockquote class="main-quote"><strong>The Space</strong> is dedicated to the practice and teaching of Yoga to the highest standards; the deepening of our understanding of Yoga wisdom through exploration and study; the healing of body, mind and heart. You are warmly invited to experience the benefits of this ancient practice.</blockquote>

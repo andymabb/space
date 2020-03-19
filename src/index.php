@@ -27,11 +27,14 @@ $page = basename($_SERVER["PHP_SELF"]);
 <main>
 <div class="main">
 
-<!-- <div class="special">
-	<h1>Special Offer</h1>
-	<p>Get one class for £10 or three for £20</p>
-	<a href="#0" class="buy">Buy Now!</a>
-</div> -->
+<div class="special">
+	<h1>Closure due to Coronavirus</h1>
+	<p>Dear Students, in line with government guidelines and advice I have decided to close the studio for the time being to protect teachers and students.</p>
+
+<p>All accounts with current active class passes as of today's date, 18th March 2020 will be carried forward to the date when we reopen. Thank you for your understanding. My very best wishes to you all at this difficult time. </p>
+<p><em>Ginny</em></p>
+	<!-- <a href="#0" class="buy">Buy Now!</a> -->
+</div>
 
 <h1>Welcome</h1>
 <blockquote class="main-quote"><strong>The Space</strong> is dedicated to the practice and teaching of Yoga to the highest standards; the deepening of our understanding of Yoga wisdom through exploration and study; the healing of body, mind and heart. You are warmly invited to experience the benefits of this ancient practice.</blockquote>

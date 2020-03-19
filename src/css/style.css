@@ -38,7 +38,7 @@ article:after,
 .special{
   display:flex;
   width:100%;
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 1em;
   flex-direction:column;
@@ -49,12 +49,18 @@ article:after,
 
 .special h1{
   font-family: Poiret One,cursive;
-  margin-bottom: .2em;
+  margin: 0 auto.2em;
   font-size: 3em;
+  text-align: center;
+  line-height: 1;
 }
 
 .special p{
   font-size: 125%;
+}
+
+p:last-child{
+  align-self: flex-start;
 }
 
 .special .buy{

@@ -32,14 +32,12 @@ $page = basename($_SERVER["PHP_SELF"]);
 	<p>We are temporarily closed to protect teachers and students.</p>
 	<p>Active accounts will be carried forward to when we re-open - thank you for your understanding.</p>
 	<p>We are delighted to announce that we are building a library of online classes  for you to purchase - <strong>watch this space!</strong></p>
-	<!-- <div class="center-button">
-	<a href="prices.php" class="buy">Buy Online Class</a>
-	</div> -->
+
 	<p>We are sending out a regular newsletter with lots of great information from our teachers and therapists - <a href="https://visitor.r20.constantcontact.com/d.jsp?llr=9hkw8vqab&p=oi&m=1117425182970&sit=reghcuyib&f=acc67f8b-5cb4-4123-82e4-8a6518cc887e">Subscribe Now!</a></p>
 	<p>We are also posting regularly on <a href="https://www.facebook.com/TheSpaceYogaHealingStudio/">Facebook</a></p>
 
-	<p><em>Ginny</em></p></div>
-
+	<p><em>Ginny</em></p>
+</div>
 
 <h1>Welcome</h1>
 <blockquote class="main-quote"><strong>The Space</strong> is dedicated to the practice and teaching of Yoga to the highest standards; the deepening of our understanding of Yoga wisdom through exploration and study; the healing of body, mind and heart. You are warmly invited to experience the benefits of this ancient practice.</blockquote>

@@ -40,67 +40,17 @@ $page = basename($_SERVER["PHP_SELF"]);
 		</span>
 	</a>
 
-
-	<!-- <a href="teacher.php?t=vicki-austin" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/vicki-austin.jpg" alt="Vicki Austin"></div>
-		<span class="teacher-info"><p class="teacher-name">Vicki Austin</p>
-			<span class="teacher-title">Traditional Hatha based Yoga</span></span>
-	</a> -->
-
 	<a href="teacher.php?t=clare-bingham" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/clare-bingham.jpg" alt="Clare Bingham"></div>
 		<span class="teacher-info"><p class="teacher-name">Clare Bingham</p>
 			<span class="teacher-title">Iyengar yoga</span></span>
 	</a>
 
-	<!-- <a href="teacher.php?t=jo-ibbett" class="teacher-card">
-	<div class="teacher-image"><img src="images/teachers/jo-ibbett.jpg" alt="Jo Ibbett"></div>
-	<span class="teacher-info"><p class="teacher-name">Jo Ibbett</p>
-		<span class="teacher-title">Yoga Therapist</span></span>
-	</a> -->
-
-	<!-- <a href="teacher.php?t=jilli-broadhurst" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/jilli-broadhurst.jpg" alt="Jilli Broadhurst"></div>
-		<span class="teacher-info"><p class="teacher-name">Jilli Broadhurst</p><span class="teacher-title">Power Vinyasa Yoga</span></span>
-	</a> -->
-
-	<!-- <a href="teacher.php?t=christie-bytom" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/christie-bytom.jpg" alt="Christie Bytom"></div>
-		<span class="teacher-info"><p class="teacher-name">Christie Bytom</p>
-			<span class="teacher-title">Hatha Yoga</span></span>
-	</a> -->
-
 	<a href="teacher.php?t=laura-avery" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/laura-avery.jpg" alt="Laura Avery"></div>
 		<span class="teacher-info"><p class="teacher-name">Laura Avery</p>
 			<span class="teacher-title">Kids, Prenatal and Hatha Yoga</span></span>
 	</a>
-
-	<!-- <a href="teacher.php?t=maxwell-covill" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/maxwell-covill.jpg" alt="Maxwell Covill"></div>
-		<span class="teacher-info"><p class="teacher-name">Maxwell Covill</p>
-			<span class="teacher-title">Ashtanga Vinyasa Yoga</span></span>
-	</a> -->
-
-	<!-- <a href="teacher.php?t=angela-cannon" class="teacher-card">
-		<div class="teacher-image">
-			<img src="images/teachers/angela-cannon.jpg" alt="Angela Cannon">
-		</div>
-		<span class="teacher-info">
-			<p class="teacher-name">Angela Cannon</p>
-			<span class="teacher-title">Hatha Yoga</span>
-		</span>
-	</a> -->
-
-	<!-- <a href="teacher.php?t=jo-nash" class="teacher-card">
-		<div class="teacher-image">
-			<img src="images/teachers/jo-nash.jpg" alt="Jo Nash">
-		</div>
-		<span class="teacher-info">
-			<p class="teacher-name">Jo Nash</p>
-			<span class="teacher-title">Ashtanga Yoga</span>
-		</span>
-	</a> -->
 
 	<a href="teacher.php?t=georgie-davies" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/georgie-davies.jpg" alt="Georgie Davies"></div>
@@ -126,12 +76,6 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Hatha Yoga</span></span>
 	</a>
 
-	<!-- <a href="teacher.php?t=mische-howard" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/mische-howard.jpg" alt="Mische Howard"></div>
-		<span class="teacher-info"><p class="teacher-name">Mische Howard</p>
-			<span class="teacher-title">Restorative Yoga</span></span>
-	</a> -->
-
 	<a href="teacher.php?t=carl-hinton" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/carl-hinton.jpg" alt="Carl Hinton"></div>
 		<span class="teacher-info">
@@ -139,33 +83,12 @@ $page = basename($_SERVER["PHP_SELF"]);
 			<span class="teacher-title">Ashtanga Yoga</span></span>
 	</a>
 
-<!-- 	<a href="teacher.php?t=jade-beckett" class="teacher-card">
-	<div class="teacher-image"><img src="images/teachers/jade-beckett.jpg" alt="Jade Beckett"></div>
-	<span class="teacher-info">
-		<p class="teacher-name">Jade Beckett</p>
-		<span class="teacher-title">Hatha Yoga</span></span>
-</a> -->
-	
-	<!-- <a href="teacher.php?t=victoria-lovatt-morris" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/victoria-lovatt-morris.jpg" alt="Victoria Lovatt Morris"></div>
-		<span class="teacher-info">
-			<p class="teacher-name">Victoria Lovatt Morris</p>
-			<span class="teacher-title">Vinyasa Flow</span></span>
-	</a> -->
-
 	<a href="teacher.php?t=jessamy-chanel" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/jessamy-chanel.jpg" alt="Jessamy Chanel"></div>
 		<span class="teacher-info">
 			<p class="teacher-name">Jessamy Chanel</p>
 			<span class="teacher-title">Pregnancy Yoga</span></span>
 	</a>
-
-	<!-- <a href="teacher.php?t=bex-wells" class="teacher-card">
-		<div class="teacher-image"><img src="images/teachers/bex-wells.jpg" alt="Bex Wells"></div>
-		<span class="teacher-info">
-			<p class="teacher-name">Bex Wells</p>
-			<span class="teacher-title">Hatha Yoga</span></span>
-	</a> -->
 
 	<a href="teacher.php?t=lucy-vickers" class="teacher-card">
 		<div class="teacher-image"><img src="images/teachers/lucy-vickers.jpg" alt="Lucy Vickers"></div>

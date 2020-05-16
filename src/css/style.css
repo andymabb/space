@@ -38,7 +38,7 @@ article:after,
 .special{
   display:flex;
   width:100%;
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 1em;
   flex-direction:column;
@@ -51,6 +51,8 @@ article:after,
   font-family: Poiret One,cursive;
   margin-bottom: .2em;
   font-size: 3em;
+  text-align: center;
+  line-height: 1;
 }
 
 .special p{
@@ -140,7 +142,7 @@ hr{background-color: rgba(205,205,205,.2);
 .main{color:#192657;}
 
 .main a{
-  color:darken(#fe8a02,10%);
+  color:hsl(32.4, 99.2%, 40%);
 }
 
 .newsletter a{

@@ -27,11 +27,19 @@ $page = basename($_SERVER["PHP_SELF"]);
 <main>
 <div class="main">
 
-<!-- <div class="special">
-	<h1>Special Offer</h1>
-	<p>Get one class for £10 or three for £20</p>
-	<a href="#0" class="buy">Buy Now!</a>
-</div> -->
+<div class="special">
+	<h1>Closure due to Coronavirus</h1>
+	<p>We are temporarily closed to protect teachers and students.</p>
+	<p>Active accounts will be carried forward to when we re-open - thank you for your understanding.</p>
+	<p>We are delighted to announce that we are building a library of online classes  for you to purchase - <strong>watch this space!</strong></p>
+	<!-- <div class="center-button">
+	<a href="prices.php" class="buy">Buy Online Class</a>
+	</div> -->
+	<p>We are sending out a regular newsletter with lots of great information from our teachers and therapists - <a href="https://visitor.r20.constantcontact.com/d.jsp?llr=9hkw8vqab&p=oi&m=1117425182970&sit=reghcuyib&f=acc67f8b-5cb4-4123-82e4-8a6518cc887e">Subscribe Now!</a></p>
+	<p>We are also posting regularly on <a href="https://www.facebook.com/TheSpaceYogaHealingStudio/">Facebook</a></p>
+
+	<p><em>Ginny</em></p></div>
+
 
 <h1>Welcome</h1>
 <blockquote class="main-quote"><strong>The Space</strong> is dedicated to the practice and teaching of Yoga to the highest standards; the deepening of our understanding of Yoga wisdom through exploration and study; the healing of body, mind and heart. You are warmly invited to experience the benefits of this ancient practice.</blockquote>
@@ -39,7 +47,7 @@ $page = basename($_SERVER["PHP_SELF"]);
 <p>Whatever you are looking for from Yoga, you will find it at <strong>The Space</strong>.  Whether it&rsquo;s a fast-flowing dynamic workout, relaxation and meditation, rehabilitation following an injury, or just a fun practice with friends, <strong>The Space</strong> has a wide variety of <a href="classes.php">classes</a> to suit everyone, whatever your age and ability.</p>
 <img src="images/studio.jpg" alt="The Space Studio" class="fr">
 
-<p>A dedicated Yoga and Healing studio on the borders of Buckinghamshire, <strong>The Space</strong> was created by Ginny Moffett of Fire Angel Yoga, in January 2009.  We have many talented and dedicated <a href="teachers.php">teachers</a> from diverse yoga backgrounds, offering our students the highest standards of teaching and expertise.  Our <a href="treatments.php">Healing Room</a> offers a range of massages and holistic treatments.</p>
+<p>A dedicated Yoga and Healing studio on the borders of Buckinghamshire, <strong>The Space</strong> was created by <a href="https://fireangelyoga.com/">Ginny Moffett</a> of Fire Angel Yoga, in January 2009.  We have many talented and dedicated <a href="teachers.php">teachers</a> from diverse yoga backgrounds, offering our students the highest standards of teaching and expertise.  Our <a href="treatments.php">Healing Room</a> offers a range of massages and holistic treatments.</p>
 
 <p>At <strong>The Space</strong>, our classes are mixed ability, so whether you have done lots of yoga, or none whatsoever, you are very welcome to come and join us.</p>
 <div class="center-button">

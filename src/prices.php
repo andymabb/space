@@ -51,6 +51,12 @@ $page = basename($_SERVER["PHP_SELF"]);
 
 <table class="packages">
   <tbody>
+    <tr>
+      <td><strong>1 Online class</strong> (valid for 10 days)</td>
+      <td>£5.00</td>
+      <td><healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="19997" data-mb-site-id="89204" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="13419" />
+      </td>
+    </tr>
 
     <tr>
       <td>Introductory Offer: Unlimited Yoga Classes (valid 10 days)</td>
